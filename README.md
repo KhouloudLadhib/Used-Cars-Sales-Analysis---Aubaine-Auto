@@ -12,7 +12,7 @@ This python code analyzes data of used cars sold in 2024 in the car dealer Aubai
 * Do cars sell faster when they are discounted?
 
 ## II. Data
-The dataset was collected by the salesman of Aubaine Auto, Khalil Daoues, and myself. The data contains 113 lines. Each line corresponds to a car that is eiher sold in 2024 or bought in 2024 and not sold yet.
+The dataset was collected by the salesman of Aubaine Auto, Khalil Daoues, and myself. The data consists 113 lines. Each line corresponds to a car that is eiher sold in 2024 or bought in 2024 and not sold yet.
 There are 25 rows in the dataset.
 
 ### 1. Descriptive Data

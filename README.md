@@ -9,7 +9,7 @@ This python code analyzes data of used cars sold in 2024 in the car dealer Aubai
 * Are there more successful sales channels than others? (for investment purposes)
 * Are there months where cars sell much more than others? (for preparing inventory)
 * Do cheaper cars sell faster or slower than more expensive cars?
-* Do cars sell faster when they are discounted more?
+* Do cars sell faster when they are discounted?
 
 ## II. Data
 The dataset was collected by the salesman of Aubaine Auto, Khalil Daoues, and myself. The data contains 113 lines. Each line corresponds to a car that is eiher sold in 2024 or bought in 2024 and not sold yet.

@@ -5,7 +5,7 @@ This python code analyzes data of used cars sold in 2024 in the car dealer Aubai
 
 * How much does a car spend in stock on average before being sold? (for KPI purposes)
 * Which car brands/models does Aubaine auto buy and sell the most?
-* Do older cars faster or slower than newer cars?
+* Do older cars sell faster or slower than newer cars?
 * Are there more successful sales channels than others? (for investment purposes)
 * Are there months where cars sell much more than others? (for preparing inventory)
 * Do cheaper cars sell faster or slower than more expensive cars?
